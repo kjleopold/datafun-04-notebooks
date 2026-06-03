@@ -20,10 +20,13 @@ authors:
     given-names: Denise M.
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
+  - family-names: Leopold
+    given-names: Kellie J.
 
-repository-code: "https://github.com/denisecase/datafun-04-notebooks"
-url: "https://github.com/denisecase/datafun-04-notebooks"
+repository-code: "https://github.com/kjleopold/datafun-04-notebooks"
+url: "https://github.com/kjleopold/datafun-04-notebooks"
 license: MIT
+
 
 abstract: >
   Exploratory data analytics project focused on the use of notebooks
