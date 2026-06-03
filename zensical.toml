@@ -8,8 +8,8 @@
 
 [project]
 site_name = "Streaming Data Module 4 Project Documentation" # CUSTOM: Name of the documentation site."
-site_url = "https://kjleopold.github.io/datafun-01-notebooks/"
-repo_url = "https://github.com/kjleopold/datafun-01-notebooks"
+site_url = "https://kjleopold.github.io/datafun-04-notebooks/"
+repo_url = "https://github.com/kjleopold/datafun-04-notebooks"
 repo_name = "kjleopold/datafun-04-notebooks"
 site_description = "Streaming Data Module 4 Project Documentation"
 docs_dir = "docs" # source directory for documentation markdown files
@@ -19,7 +19,7 @@ edit_uri = "edit/main/docs/" # "Edit this page" links (GitHub)
 [project.extra]
 # WHY: Social links provide easy access to project repositories and profiles.
 social = [
-    {icon = "fontawesome/brands/github", link = "https://github.com/kjleopold/datafun-01-notebooks" },
+    {icon = "fontawesome/brands/github", link = "https://github.com/kjleopold/datafun-04-notebooks" },
 ]
 
 # ------------------------------------------------------------
